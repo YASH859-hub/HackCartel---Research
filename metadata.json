@@ -1,0 +1,8 @@
+{
+  "name": "HackCartel Research",
+  "description": "The applied AI research and fellowship initiative of HackCartel. Investigating useful, reliable, and affordable AI systems.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
